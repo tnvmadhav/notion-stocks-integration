@@ -65,7 +65,7 @@ class MyIntegration:
 
     def getStockPrices(self):
         """
-        Download the required crypto prices using Binance API.
+        Download the required stock prices using Yahoo API.
         Ref: https://query1.finance.yahoo.com/v8/finance/chart/
         """
         for name, data in self.my_variables_map["NOTION_ENTRIES"].items():

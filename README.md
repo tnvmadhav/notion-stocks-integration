@@ -1,5 +1,5 @@
 # Stocks Profits Tracker (+ Notion API Integration with Python)
-You can track live US stock prices in your personal notion dashboard and a single Python script.
+You can track live US stock prices in your personal notion dashboard with a single Python script.
 
 ![Cover.png](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/amu31tn9r9d6jfonp7n3.png)
 
